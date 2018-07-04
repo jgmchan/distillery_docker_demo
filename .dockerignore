@@ -1,0 +1,14 @@
+_build
+deps
+Dockerfile*
+docker-compose*
+.dockerignore
+README.md
+Makefile
+ubuntu-*.log
+inventory*
+.tool-versions
+Vagrantfile
+.vagrant
+.env
+playbooks
